@@ -1,16 +1,22 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Bidyashree+Panda;Aspiring+Data+Analyst+%F0%9F%93%8A;Python+%7C+SQL+%7C+Pandas+%7C+Power+BI;Exploring+Data+Science+%26+GenAI+%F0%9F%A4%96;Turning+Data+into+Insights+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Bidyashree+Panda;Aspiring+Data+Analyst+%F0%9F%93%8A;Python+%7C+SQL+%7C+Pandas+%7C+Power+BI;Exploring+Data+Science+%26+GenAI+%F0%9F%A4%96;Turning+Data+into+Insights+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br>
 
-<a href="https://github.com/Bidyashreepanda">
-<img src="https://img.shields.io/github/followers/Bidyashreepanda?label=Followers&style=for-the-badge&logo=github"/>
+<a href="https://www.linkedin.com/in/bidyashree-panda/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Bidyashreepanda?tab=repositories">
-<img src="https://img.shields.io/github/stars/Bidyashreepanda?label=Total%20Stars&style=for-the-badge&logo=github"/>
+<a href="https://github.com/Bidyashreepanda">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<a href="mailto:pandabidyashree3@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Bidyashreepanda&label=Profile%20Views&style=for-the-badge"/>
 
@@ -51,7 +57,7 @@ class Bidyashree:
 
 ---
 
-## 🎯 What I Do
+# 🎯 What I Do
 
 <table>
 <tr>
@@ -60,13 +66,13 @@ class Bidyashree:
 
 ### 📊 Data Analytics
 
-Python
-Pandas
-NumPy
-SQL
-Excel
-Power BI
-EDA
+🐍 Python
+🐼 Pandas
+🔢 NumPy
+🗃️ SQL
+📗 Excel
+📊 Power BI
+🔍 EDA
 
 </td>
 
@@ -105,16 +111,12 @@ Python Automation
 ### 💻 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,java,mysql" />
 </p>
 
 ### 📊 Data & Analytics
 
-<p>
-<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib"/>
-</p>
-
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Excel` `Power BI`
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Excel` `Power BI` `SQL`
 
 ### 🤖 AI / ML
 
@@ -123,7 +125,7 @@ Python Automation
 ### 🔧 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,jupyter,streamlit"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,jupyter,streamlit" />
 </p>
 
 ---
@@ -138,42 +140,32 @@ Python Automation
 
 <td width="50%">
 
-## 📊 Amazon Sales Analysis
+### 📊 Amazon Sales Performance Analysis
 
 **Python • Pandas • EDA • Visualization**
 
-Analyzed sales data to identify:
+Analyzed sales data to discover trends, payment patterns, location performance and business insights.
 
-* 📈 Sales trends
-* 💳 Payment patterns
-* 🌎 Location performance
-* 💰 Business insights
+<br>
 
 <a href="https://github.com/Bidyashreepanda/Amazon-Sales-Performance-Analysis">
-
-<img src="https://img.shields.io/badge/View_Project-2F81F7?style=for-the-badge&logo=github"/>
-
+<img src="https://img.shields.io/badge/🔍%20View%20Project-2F81F7?style=for-the-badge"/>
 </a>
 
 </td>
 
 <td width="50%">
 
-## 🛒 Grocery Management System
+### 🛒 Grocery Management System
 
 **Python • Database • Management System**
 
-A management application for handling:
+A management application for products, customers, inventory and transactions.
 
-* 🛍️ Products
-* 👥 Customers
-* 📦 Inventory
-* 💰 Transactions
+<br>
 
 <a href="https://github.com/Bidyashreepanda/Grocery-Management-System">
-
-<img src="https://img.shields.io/badge/View_Project-2F81F7?style=for-the-badge&logo=github"/>
-
+<img src="https://img.shields.io/badge/🔍%20View%20Project-2F81F7?style=for-the-badge"/>
 </a>
 
 </td>
@@ -184,27 +176,25 @@ A management application for handling:
 
 <td width="50%">
 
-## 🤖 AI Desktop Assistant
+### 🤖 AI Desktop Virtual Assistant
 
 **Python • Tkinter • Speech Recognition**
 
-Features include:
-
-* 🎙️ Voice commands
-* 🔎 Web search
-* 🌦️ Weather
-* 🎵 Music
-* ⏰ Reminders
+🎙️ Voice Commands
+🔎 Web Search
+🌦️ Weather
+🎵 Music
+⏰ Reminders
 
 </td>
 
 <td width="50%">
 
-## 🩸 LifeLink
+### 🩸 LifeLink
 
 **Python • Flask • HTML • CSS**
 
-A web-based blood availability system connecting users with relevant hospital and contact information.
+A web-based blood availability system designed to connect users with relevant hospital and contact information.
 
 </td>
 
@@ -216,7 +206,7 @@ A web-based blood availability system connecting users with relevant hospital an
 
 ---
 
-# 📈 My GitHub Activity
+# 📈 GitHub Analytics
 
 <div align="center">
 
@@ -232,11 +222,19 @@ A web-based blood availability system connecting users with relevant hospital an
 
 ---
 
-# 🐍 Contribution Activity
+# 🐍 My Contribution Journey
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Bidyashreepanda/Bidyashreepanda/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/Bidyashreepanda/Bidyashreepanda/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Bidyashreepanda/Bidyashreepanda/output/github-contribution-grid-snake.svg">
+
+<img alt="GitHub contribution snake animation"
+src="https://raw.githubusercontent.com/Bidyashreepanda/Bidyashreepanda/output/github-contribution-grid-snake.svg"> </picture>
 
 </div>
 
@@ -244,81 +242,79 @@ A web-based blood availability system connecting users with relevant hospital an
 
 # 📚 Currently Learning
 
-```text
-Python              ████████████████████  90%
-SQL                 ██████████████████    85%
-Pandas              ██████████████████    85%
-Data Visualization  █████████████████     80%
-Power BI            ████████████████      75%
-Machine Learning    ███████████████       70%
-NLP                 █████████████         65%
-Generative AI       ████████████          60%
-```
+<div align="center">
+
+| 📚 Skill            | 🚀 Focus                          |
+| ------------------- | --------------------------------- |
+| 🐍 Python           | Advanced Programming & Automation |
+| 🗃️ SQL             | Advanced Queries & Data Analysis  |
+| 🐼 Pandas           | Data Wrangling & EDA              |
+| 📊 Power BI         | Interactive Dashboards            |
+| 🤖 Machine Learning | Predictive Analytics              |
+| 📝 NLP              | Text Processing                   |
+| 🧠 GenAI            | AI Applications                   |
+
+</div>
 
 ---
 
-# 🏆 Achievements & Certifications
+# 🏆 Certification
 
-### 🥈 Silver Certificate
+### 🥈 Silver Certificate — Innomatics Research Labs
 
-**Innomatics Research Labs**
+**Learning areas:**
 
-Areas covered:
-
-* 🐍 Python & Problem Solving
-* 📊 Data Handling
-* 📈 Data Analysis & Visualization
-* 🤖 Data Science & Machine Learning
-* 🧠 AI Concepts
-* 📁 Real-world datasets & projects
+`Python` • `Data Handling` • `EDA` • `Data Visualization` • `Statistics` • `Machine Learning` • `AI`
 
 ---
 
-# 💡 My Data Journey
+# 🧭 My Data Journey
+
+<div align="center">
 
 ```text
-Python
-   ↓
-NumPy & Pandas
-   ↓
-Data Cleaning
-   ↓
-Exploratory Data Analysis
-   ↓
-Visualization
-   ↓
-SQL & Excel
-   ↓
-Power BI
-   ↓
-Machine Learning
-   ↓
-NLP & GenAI
-   ↓
+🐍 Python
+     ↓
+🔢 NumPy & Pandas
+     ↓
+🧹 Data Cleaning
+     ↓
+🔍 Exploratory Data Analysis
+     ↓
+📊 Data Visualization
+     ↓
+🗃️ SQL & Excel
+     ↓
+📈 Power BI
+     ↓
+🤖 Machine Learning
+     ↓
+📝 NLP & GenAI
+     ↓
 🚀 Data Professional
 ```
 
----
-
-# 📊 What I Love Working On
-
-| Area             | What I Explore              |
-| ---------------- | --------------------------- |
-| 🐍 Python        | Automation & Data Analysis  |
-| 🗃️ SQL          | Queries & Database Analysis |
-| 🧹 Data Cleaning | Missing values & duplicates |
-| 🔍 EDA           | Finding patterns & insights |
-| 📊 Visualization | Charts & dashboards         |
-| 📈 Power BI      | Interactive dashboards      |
-| 🤖 ML            | Predictive models           |
-| 🧠 NLP           | Text analysis               |
-| ✨ GenAI          | AI-powered applications     |
+</div>
 
 ---
 
-# 🎯 Career Goal
+# 💡 Areas I'm Interested In
 
-> **To start my career as a Data Analyst / Data Scientist and use data, technology and AI to solve real-world problems.**
+<table>
+<tr>
+<td align="center">🐍<br><b>Python</b><br>Automation & Analysis</td>
+<td align="center">🗃️<br><b>SQL</b><br>Database Analysis</td>
+<td align="center">📊<br><b>Visualization</b><br>Dashboards</td>
+<td align="center">🤖<br><b>ML</b><br>Predictive Analytics</td>
+</tr>
+
+<tr>
+<td align="center">🧹<br><b>Data Cleaning</b><br>Data Quality</td>
+<td align="center">🔍<br><b>EDA</b><br>Finding Insights</td>
+<td align="center">🧠<br><b>NLP</b><br>Text Analytics</td>
+<td align="center">✨<br><b>GenAI</b><br>AI Applications</td>
+</tr>
+</table>
 
 ---
 
@@ -326,24 +322,16 @@ NLP & GenAI
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/bidyashree-panda/">
+<img src="https://img.shields.io/badge/LinkedIn-Bidyashree%20Panda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <a href="https://github.com/Bidyashreepanda">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/GitHub-Bidyashreepanda-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:pandabidyashree3@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-<!-- Replace YOUR_LINKEDIN_URL with your LinkedIn profile -->
-
-<a href="YOUR_LINKEDIN_URL">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Gmail-pandabidyashree3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -355,6 +343,8 @@ NLP & GenAI
 ### 🌱 Learn → Build → Analyze → Improve → Repeat 🔄
 
 **Thanks for visiting my profile! ⭐**
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
