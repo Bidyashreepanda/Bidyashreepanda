@@ -1,21 +1,27 @@
-<h1 align="center">Hi 👋, I'm Bidyashree Panda</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-<!-- <img align="right" alt="coding" width="400" src='https://lottiefiles.com/free-animation/girl-on-computer-with-idea-vKx1wtZe5l'> -->
+Act as a GitHub profile expert and a technical recruiter.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bidyashreepanda&label=Profile%20views&color=0e75b6&style=flat" alt="bidyashreepanda" /> </p>
+Here is my profile: https://github.com/Bidyashreepanda
 
-- 📫 How to reach me **pandabidyashree3@gmail.com**
+About me:
+- Name: Bidyashree Panda, from Gunupur, Odisha, India
+- Current bio: Aspiring Data Analyst | Aspiring Data Scientist
+- Skills: Python, Java, MySQL, Node.js, HTML, CSS, Bootstrap, Git
+- Repositories: todo-list app, quiz app, calculator, upskillcampus project, IoT project
+- Goal: get a job as a Data Analyst, Data Scientist, or System and DevOps Engineer
+- I am also learning Linux, Docker, data analysis (EDA), and English speaking
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bidyashree panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bidyashree panda" height="30" width="40" /></a>
-</p>
+Please do the following:
+1. Write a new profile README.md with these sections: short intro,
+   what I'm learning, skills (as badges), featured projects, and contact links.
+2. Add interactive elements: GitHub stats card, streak stats, top languages,
+   and a snake animation (Platane/snk with a GitHub Action).
+3. Write a one-line description for each of my repositories.
+4. Suggest better names for my repos (for example, task1-making-a-todolist-app
+   -> todo-list-app).
+5. Suggest 3 data projects (EDA, data visualization, and a simple machine
+   learning model) with datasets and tools like Pandas, NumPy, Matplotlib,
+   Power BI, and Scikit-learn.
+6. Suggest a short bio (under 160 characters) that combines my goals.
+7. Use simple English and a professional but friendly tone.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bidyashreepanda&show_icons=true&locale=en&layout=compact" alt="bidyashreepanda" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bidyashreepanda&show_icons=true&locale=en" alt="bidyashreepanda" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bidyashreepanda&" alt="bidyashreepanda" /></p>
+Give me the full README in Markdown so I can copy and paste it.
